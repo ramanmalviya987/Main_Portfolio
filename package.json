@@ -1,6 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
+  "homepage": "https://ramanmalviya987.github.io/Main_Portfolio/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.7.1",
@@ -14,6 +15,7 @@
     "aos": "^2.3.4",
     "emailjs-com": "^3.2.0",
     "framer-motion": "^4.1.5",
+    "gh-pages": "^5.0.0",
     "postcss": "^8.4.21",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -27,6 +29,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },

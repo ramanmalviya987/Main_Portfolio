@@ -51,11 +51,8 @@ const Skills = () => {
       >
         <Skill done="90" head="Github" />
         <Skill done="70" head="C" />
-
-        <Skill done="50" head="Next JS" />
+        <Skill done="70" head="Linux" />
       </div>
-
-     
     </div>
   );
 };
