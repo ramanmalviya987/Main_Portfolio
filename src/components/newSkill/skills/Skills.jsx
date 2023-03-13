@@ -13,19 +13,10 @@ const Skills = () => {
         <h1>My SKills</h1>
       </div>
       <div className="my-skills">
-        <Skill
-          done="75"
-          head="Javascript"
-        />
-        <Skill
-          done="80"
-          head="PHP"
-        />
+        <Skill done="75" head="Javascript" />
+        <Skill done="100" head="HTML5" />
 
-        <Skill
-          done="60"
-          head="React"
-        />
+        <Skill done="60" head="React" />
       </div>
       <div
         className="my-skills2"
@@ -34,20 +25,10 @@ const Skills = () => {
         data-aos-once="true"
         data-aos-duration="1000"
       >
-        <Skill
-          done="100"
-          head="HTML5"
-        />
+        <Skill done="75" head="CSS3" />
+        <Skill done="80" head="Bootstrap" />
 
-        <Skill
-          done="75"
-          head="CSS3"
-        />
-
-        <Skill
-          done="90"
-          head="Laravel"
-        />
+        <Skill done="70" head="Tailwind" />
       </div>
       <div
         className="my-skills2"
@@ -56,20 +37,10 @@ const Skills = () => {
         data-aos-once="true"
         data-aos-duration="1000"
       >
-        <Skill
-          done="80"
-          head="jQuery"
-        />
+        <Skill done="75" head="React Native" />
+        <Skill done="80" head="Figma" />
 
-        <Skill
-          done="70"
-          head="MySQL"
-        />
-
-        <Skill
-          done="70"
-          head="Wordpress"
-        />
+        <Skill done="70" head="Git" />
       </div>
       <div
         className="my-skills2"
@@ -78,21 +49,13 @@ const Skills = () => {
         data-aos-once="true"
         data-aos-duration="1000"
       >
-        <Skill
-          done="80"
-          head="Bootstrap"
-        />
+        <Skill done="90" head="Github" />
+        <Skill done="70" head="C" />
 
-        <Skill
-          done="70"
-          head="Tailwind"
-        />
-
-        <Skill
-          done="60"
-          head="Material"
-        />
+        <Skill done="50" head="Next JS" />
       </div>
+
+     
     </div>
   );
 };

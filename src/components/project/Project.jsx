@@ -2,12 +2,9 @@ import React from 'react'
 import './project.css'
 import { motion } from 'framer-motion'
 import ProjectContain from './projectContain/ProjectContain'
-import blog from '../../images/portfolio.png'
-import whatsaap from '../../images/whatsapp.png'
-import ecomerce from '../../images/ecom.png'
-import chat from '../../images/iforum.png'
-import lara from '../../images/cms.png'
-import snake from '../../images/snake.png'
+import Nextflix from '../../images/netflix.webp'
+import Portfolio from '../../images/portfolio.jpeg'
+
 
 const Project = () => {
  
@@ -25,49 +22,22 @@ const Project = () => {
           <div className="gpt3__blog-container_groupB"
           >
             <ProjectContain 
-            imgUrl={whatsaap} date="Whatsapp Clone" 
-            text="This is chat clone integrate with Firebase with React JS"
-             link=" https://whatsapp-clone-786.web.app/"
+            imgUrl={Nextflix} date="Netflix Clone" 
+            text="This is a Netflix  clone integrate with Firebase with React JS"
+             link=" https://netflix-clone-19af9.web.app/"
              tagOne="React JS"
              tagTwo="React Router"
              tagThree="Firebase"
              tagFour=""
              />
             <ProjectContain 
-            imgUrl={ecomerce} date="Ecomerce"
-             text="This site is made in Laravel to learn ecommerce functionality."
-              link="https://sitmedu.000webhostapp.com/ecom/"
-              tagOne="Laravel"
-             tagTwo="MySQL"
-             tagThree="Javascript" />
-            <ProjectContain 
-            imgUrl={chat} date="iFroum" 
-            text="This is coding forum website made in PHP and MySQL."
-            link="https://sitmedu.000webhostapp.com/iforum/"
-            tagOne="PHP"
-             tagTwo="MySQL"
-             tagThree="Bootstrap"
-            />
-            <ProjectContain imgUrl={lara} date="Laravel CMS"
-             text="It is a eCommerce CMS made in Laravel and jQuery."
-             link="https://mrqdev.000webhostapp.com/"
-             tagOne="Laravel"
-             tagTwo="MySQL"
-             tagThree="jQuery"
-              />
-            <ProjectContain imgUrl={snake} date="Snake Game"
-             text="Snake Game is fully developed in pure JavaScript." 
-             link="https://mohdrehanrq0.github.io/Snake-Game/"
-             tagOne="Javascript"
-             tagTwo="HTML5"
-             tagThree="CSS3"
-             />
-            <ProjectContain imgUrl={blog} date="Portfolio"
-             text="This is my previous portfolio made in React JS" 
-             link="https://mohdrehanrq0.github.io/react_portfolio/"
-             tagOne="React JS"
-             tagTwo="email js"
-             tagThree="HTML" />
+            imgUrl={Portfolio} date="Portfolio"
+             text="This is my previous portfolio made in React JS"
+              link="https://ramanmalviya987.github.io/Main_Portfolio/"
+              tagOne="React Js"
+             tagTwo="email Js"
+             tagThree="CSS3" />
+           
           </div>
         </div>
       </div>

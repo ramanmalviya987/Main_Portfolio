@@ -10,7 +10,7 @@ const Contact = () => {
         e.preventDefault();
         console.log(e.target);
 
-        emailjs.sendForm('gmail', 'template_prgy42s', e.target, 'user_IHCiyGYkNZcFeQHj3kONa')
+        emailjs.sendForm('gmail', 'template_prgy42s', e.target, 'user_s2GIZiNjo1RTr026o')
         .then((result) => {
             console.log(result.text);
         }, (error) => {
@@ -47,7 +47,7 @@ const Contact = () => {
                         </div>
                         <div className="text">
                             <h3>Address</h3>
-                            <p>Pithampur Sector-1  <br />District Dhar, Madhya Pradesh<br />India, 454775 </p>
+                            <p>Samar Park Colony <br />District Indore, Madhya Pradesh<br />India, 451010 </p>
                         </div>
                     </div>
                     <div className="box">
@@ -56,7 +56,7 @@ const Contact = () => {
                         </div>
                         <div className="text">
                             <h3>Phone</h3>
-                            <p><a href="tel:+919926488445">+91 9926488445</a></p>
+                            <p><a href="tel:+919926488445">+91 8319369258</a></p>
                         </div>
                     </div>
                     <div className="box">
@@ -65,7 +65,7 @@ const Contact = () => {
                              </div>
                         <div className="text">
                             <h3>Email</h3>
-                            <p><a href="mailto:mohdrehanrq0@gmail.com">mohdrehanrq0@gmail.com</a></p>
+                            <p><a href="mailto:mohdrehanrq0@gmail.com">raman.s.malviya@gmail.com</a></p>
                         </div>
                     </div>
                 </div>
