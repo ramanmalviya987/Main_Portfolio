@@ -1,30 +1,26 @@
 {
   "files": {
-    "main.css": "/Main_Portfolio/static/css/main.4a195021.chunk.css",
-    "main.js": "/Main_Portfolio/static/js/main.a9533d71.chunk.js",
-    "main.js.map": "/Main_Portfolio/static/js/main.a9533d71.chunk.js.map",
-    "runtime-main.js": "/Main_Portfolio/static/js/runtime-main.f95d79d6.js",
-    "runtime-main.js.map": "/Main_Portfolio/static/js/runtime-main.f95d79d6.js.map",
-    "static/js/2.57e9c5f8.chunk.js": "/Main_Portfolio/static/js/2.57e9c5f8.chunk.js",
-    "static/js/2.57e9c5f8.chunk.js.map": "/Main_Portfolio/static/js/2.57e9c5f8.chunk.js.map",
-    "static/js/3.f5527559.chunk.js": "/Main_Portfolio/static/js/3.f5527559.chunk.js",
-    "static/js/3.f5527559.chunk.js.map": "/Main_Portfolio/static/js/3.f5527559.chunk.js.map",
-    "index.html": "/Main_Portfolio/index.html",
-    "static/css/main.4a195021.chunk.css.map": "/Main_Portfolio/static/css/main.4a195021.chunk.css.map",
-    "static/js/2.57e9c5f8.chunk.js.LICENSE.txt": "/Main_Portfolio/static/js/2.57e9c5f8.chunk.js.LICENSE.txt",
-    "static/media/cms.6e72d5a9.png": "/Main_Portfolio/static/media/cms.6e72d5a9.png",
-    "static/media/dark.886f9e2a.jpg": "/Main_Portfolio/static/media/dark.886f9e2a.jpg",
-    "static/media/ecom.80be4e66.png": "/Main_Portfolio/static/media/ecom.80be4e66.png",
-    "static/media/home.92dabebf.svg": "/Main_Portfolio/static/media/home.92dabebf.svg",
-    "static/media/iforum.b54f6a17.png": "/Main_Portfolio/static/media/iforum.b54f6a17.png",
-    "static/media/portfolio.fdbb1a73.png": "/Main_Portfolio/static/media/portfolio.fdbb1a73.png",
-    "static/media/snake.91dd2cd7.png": "/Main_Portfolio/static/media/snake.91dd2cd7.png",
-    "static/media/whatsapp.d0317a23.png": "/Main_Portfolio/static/media/whatsapp.d0317a23.png"
+    "main.css": "/ramanmalviya987/Main_Portfolio/static/css/main.9678473a.chunk.css",
+    "main.js": "/ramanmalviya987/Main_Portfolio/static/js/main.b67c2471.chunk.js",
+    "main.js.map": "/ramanmalviya987/Main_Portfolio/static/js/main.b67c2471.chunk.js.map",
+    "runtime-main.js": "/ramanmalviya987/Main_Portfolio/static/js/runtime-main.83f0e6ae.js",
+    "runtime-main.js.map": "/ramanmalviya987/Main_Portfolio/static/js/runtime-main.83f0e6ae.js.map",
+    "static/js/2.b6537302.chunk.js": "/ramanmalviya987/Main_Portfolio/static/js/2.b6537302.chunk.js",
+    "static/js/2.b6537302.chunk.js.map": "/ramanmalviya987/Main_Portfolio/static/js/2.b6537302.chunk.js.map",
+    "static/js/3.a2a63d68.chunk.js": "/ramanmalviya987/Main_Portfolio/static/js/3.a2a63d68.chunk.js",
+    "static/js/3.a2a63d68.chunk.js.map": "/ramanmalviya987/Main_Portfolio/static/js/3.a2a63d68.chunk.js.map",
+    "index.html": "/ramanmalviya987/Main_Portfolio/index.html",
+    "static/css/main.9678473a.chunk.css.map": "/ramanmalviya987/Main_Portfolio/static/css/main.9678473a.chunk.css.map",
+    "static/js/2.b6537302.chunk.js.LICENSE.txt": "/ramanmalviya987/Main_Portfolio/static/js/2.b6537302.chunk.js.LICENSE.txt",
+    "static/media/dark.886f9e2a.jpg": "/ramanmalviya987/Main_Portfolio/static/media/dark.886f9e2a.jpg",
+    "static/media/home.92dabebf.svg": "/ramanmalviya987/Main_Portfolio/static/media/home.92dabebf.svg",
+    "static/media/netflix.cb05e746.webp": "/ramanmalviya987/Main_Portfolio/static/media/netflix.cb05e746.webp",
+    "static/media/portfolio.9c636f19.jpeg": "/ramanmalviya987/Main_Portfolio/static/media/portfolio.9c636f19.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f95d79d6.js",
-    "static/js/2.57e9c5f8.chunk.js",
-    "static/css/main.4a195021.chunk.css",
-    "static/js/main.a9533d71.chunk.js"
+    "static/js/runtime-main.83f0e6ae.js",
+    "static/js/2.b6537302.chunk.js",
+    "static/css/main.9678473a.chunk.css",
+    "static/js/main.b67c2471.chunk.js"
   ]
 }
